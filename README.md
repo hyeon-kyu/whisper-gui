@@ -2,6 +2,8 @@
 
 Lightning Whisper MLX 모델로 음성 파일을 전사하는 간단한 GUI 애플리케이션
 
+![git_readme_image](https://github.com/user-attachments/assets/eae9f6d1-d9b4-422a-b339-00a3270c0016)
+
 ---
 
 ## 기능
