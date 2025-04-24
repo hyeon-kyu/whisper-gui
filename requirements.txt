@@ -1,0 +1,2 @@
+# Whisper GUI 애플리케이션 의존성
+lightning-whisper-mlx
